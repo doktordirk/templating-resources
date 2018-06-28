@@ -66,7 +66,7 @@
       "core-js": "^2.0.3"
     }
   },
-  "dependencies": {
+  "peerDependencies": {
     "aurelia-binding": "^1.7.1 || ^2.0.0",
     "aurelia-dependency-injection": "^1.0.0",
     "aurelia-loader": "^1.0.0",
